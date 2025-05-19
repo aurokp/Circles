@@ -264,4 +264,7 @@ body{
   background-color: white;
   height: 300px;
   width: 300px;
+  background-image: url('siu.jpg');
+  background-size: cover;
+  background-position: center; 
 }
