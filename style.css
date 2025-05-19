@@ -1,0 +1,267 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+
+body{
+  background-color: rgb(167, 230, 248);
+  text-align: center;
+  color: black;
+}
+
+
+
+#box1{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: coral;
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box1:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box2{
+    margin:10px 20px 10px 20px;
+
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: red;
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box2:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box3{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: yellow;
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box3:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box4{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: greenyellow;
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box4:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box5{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: rgb(16, 221, 136);
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box5:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box6{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: rgb(167, 127, 216);
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box6:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box7{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: rgb(8, 179, 252);
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box7:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box8{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: rgb(69, 81, 211);
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box8:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box9{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: rgb(236, 160, 181);
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box9:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box10{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: rgb(165, 222, 137);
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box10:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box11{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: rgb(255, 197, 158);
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box11:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box12{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: cyan;
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box12:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box13{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: chocolate;
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box13:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
+#box14{
+  margin:10px 20px 10px 20px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  background-color: magenta;
+  border:2px solid black;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px black;
+  text-align: center;
+  transition:background-color 0.5s ease,height 0.5s ease,width 0.5s ease;
+}
+#box14:hover{
+  background-color: white;
+  height: 300px;
+  width: 300px;
+}
